@@ -1,0 +1,15 @@
+.storybook-first {
+  font-family: "Nunito Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  padding: 12.5px 20px;
+  /* font-weight: 700; */
+  border: 0;
+  border-radius: 3em;
+  /* cursor: pointer; */
+  /* display: inline-block; */
+  /* line-height: 1; */
+}
+
+.storybook-first--primary {
+  color: white;
+  background-color: #1ea7fd;
+}
